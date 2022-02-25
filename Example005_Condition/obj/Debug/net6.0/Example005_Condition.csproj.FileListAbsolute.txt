@@ -1,0 +1,15 @@
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.AssemblyReference.cache
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfoInputs.cache
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfo.cs
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.CoreCompileInputs.cache
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.deps.json
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.runtimeconfig.json
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.dll
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.pdb
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.dll
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/refint/Example005_Condition.dll
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.pdb
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.genruntimeconfig.cache
+/Users/mihailbaklanov/Desktop/git education/C#/Examples/Example005_Condition/obj/Debug/net6.0/ref/Example005_Condition.dll
